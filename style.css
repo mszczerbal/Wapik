@@ -146,7 +146,8 @@ nav ul li:last-of-type a {
     }
 
     nav ul li:last-of-type {
-        padding-right: 30px;
+        margin-left: 10px;
+        padding-right: 20px;
     }
 
     .header-info {
